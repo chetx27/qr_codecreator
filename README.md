@@ -36,4 +36,4 @@ To generate a QR code for a different link, edit the `website_link` variable in 
 
 ### License
 
-This project is for educational purposes.# qr_codecreator
+This project is for educational purposes.
